@@ -462,7 +462,7 @@ header h1 {
   font-size: 72px;
   font-weight: normal;
   line-height: 1;
-  color: #fff;
+  color: #000;
   letter-spacing: -1px;
 }
 
@@ -659,7 +659,6 @@ form {
 #main-content h3:before {
   padding-right: 0.3em;
   margin-left: -2em;
-  content: "//";
   color: #A20013;
 }
 
